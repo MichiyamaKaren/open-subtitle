@@ -9,3 +9,4 @@
     - [信じる者に門は開かれる](karaoke/revuestarlight-信じる者に門は開かれる.ass) 
     - [命尽きても尽き果てず](karaoke/revuestarlight-命尽きても尽き果てず.ass)
     - [罪がないのならばそれが罪だ](karaoke/revuestarlight-罪がないのならばそれが罪だ.ass)
+    - [闇を照らすもの](karaoke/revuestarlight-闇を照らすもの.ass)
