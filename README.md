@@ -11,3 +11,4 @@
     - [罪がないのならばそれが罪だ](karaoke/revuestarlight-罪がないのならばそれが罪だ.ass)
     - [闇を照らすもの](karaoke/revuestarlight-闇を照らすもの.ass)
     - [永遠ハ死シテ生キル](karaoke/revuestarlight-永遠ハ死シテ生キル.ass)
+    - [星の少女、月に少女](karaoke/revuestarlight-星の少女、月に少女.ass)s
