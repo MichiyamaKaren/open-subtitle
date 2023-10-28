@@ -15,4 +15,7 @@
     - [闇を照らすもの](karaoke/revuestarlight-闇を照らすもの.ass)
     - [永遠ハ死シテ生キル](karaoke/revuestarlight-永遠ハ死シテ生キル.ass)
     - [星の少女、月に少女](karaoke/revuestarlight-星の少女、月に少女.ass)
+  - MyGO!!!!!
+    - 翻唱
+      - [少女レイ](karaoke\mygo-cover-少女レイ.ass)
   - [猛独が襲う](karaoke\猛独が襲う.ass)
