@@ -8,7 +8,7 @@
   - 剧场版少女歌剧
     - [宽幅](anime/revuestarlight-gekijoban.ass)：适合视频分辨率 $1920\times 804$
     - [遮幅](anime/revuestarlight-gekijoban-178.ass)：适合视频分辨率 $1920\times 1080$，字幕在上下黑边中
-  - [少女歌剧剧场版总集篇 Rondo Rondo Rondo](anime/revuestarlight-rororo-178.ass)：适合视频分辨率$1920 \times 1080$
+  - [少女歌剧剧场版总集篇 Rondo Rondo Rondo](anime/revuestarlight-rororo-178.ass)：适合视频分辨率 $1920 \times 1080$
 
 - 卡拉OK字幕
   - 少女歌剧
