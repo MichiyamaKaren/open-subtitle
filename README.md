@@ -20,5 +20,6 @@
     - [星の少女、月に少女](karaoke/revuestarlight-星の少女、月に少女.ass)
   - MyGO!!!!!
     - 翻唱
-      - [少女レイ](karaoke\mygo-cover-少女レイ.ass)
+      - [少女レイ covered by 燈](karaoke/mygo-cover-少女レイ.ass)
+      - [栞 covered by 立希](karaoke/mygo-cover-栞.ass)
   - [猛独が襲う](karaoke\猛独が襲う.ass)
