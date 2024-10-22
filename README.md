@@ -28,3 +28,4 @@
   - 恶魔的破坏 Dead Dead Deamons Dededede Destruction
     - [*絶絶絶絶対聖域*](karaoke/dededede-絶絶絶絶対聖域.ass)
     - [*青春謳歌*](karaoke/dededede-青春謳歌.ass)
+    - [*あした地球がこなごなになっても*](karaoke/あした地球がこなごなになっても.ass)
