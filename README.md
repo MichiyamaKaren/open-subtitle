@@ -26,6 +26,7 @@
       - [*栞 covered by 立希*](karaoke/mygo-cover-栞.ass)
       - [*猛独が襲う*](karaoke\猛独が襲う.ass)
   - 恶魔的破坏 Dead Dead Deamons Dededede Destruction
+    - [*SHINSEKAIより*](karaoke/dededede-SHINSEKAIより.ass)
     - [*絶絶絶絶対聖域*](karaoke/dededede-絶絶絶絶対聖域.ass)
     - [*青春謳歌*](karaoke/dededede-青春謳歌.ass)
     - [*あした地球がこなごなになっても*](karaoke/あした地球がこなごなになっても.ass)
