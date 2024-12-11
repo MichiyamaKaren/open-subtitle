@@ -24,7 +24,8 @@
     - 翻唱
       - [*少女レイ covered by 燈*](karaoke/mygo-cover-少女レイ.ass)
       - [*栞 covered by 立希*](karaoke/mygo-cover-栞.ass)
-      - [*猛独が襲う*](karaoke\猛独が襲う.ass)
+      - [*猛独が襲う*](karaoke/猛独が襲う.ass)
+      - [*遠心力*](karaoke/mygo-cover-遠心力.ass)
   - 恶魔的破坏 Dead Dead Deamons Dededede Destruction
     - [*SHINSEKAIより*](karaoke/dededede-SHINSEKAIより.ass)
     - [*絶絶絶絶対聖域*](karaoke/dededede-絶絶絶絶対聖域.ass)
